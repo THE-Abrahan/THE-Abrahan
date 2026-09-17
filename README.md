@@ -38,8 +38,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THE-Abrahan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Abraham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-Abrahan&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más utilizados por Abraham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THE-Abrahan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats de Abraham" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-Abrahan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados por Abraham" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=THE-Abrahan&theme=tokyonight&hide_border=true" alt="GitHub streak de Abraham" height="180" />
 </div>
 
 ## 🤝 Conecta conmigo
