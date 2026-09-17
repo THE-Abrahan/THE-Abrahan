@@ -1,59 +1,55 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<div align="center">
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm   ABRAHAM</h2>
+# 👋 ¡Hola! Soy Abraham
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+### Desarrollador apasionado por la tecnología y la creación de soluciones digitales
 
-### 👨🏻‍💻 &nbsp;About Me
+[![GitHub](https://img.shields.io/badge/GitHub-THE--Abrahan-181717?style=flat&logo=github)](https://github.com/THE-Abrahan)
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+</div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+---
 
-### 🛠 &nbsp;Tech Stack
+## 👨‍💻 Sobre mí
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de software.
+- 🌱 Continúo aprendiendo y fortaleciendo mis conocimientos en programación y tecnología.
+- 💡 Me interesa crear soluciones útiles, aprender nuevas herramientas y mejorar constantemente.
+- 🤝 Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos.
+- 📫 Puedes contactarme a través de [GitHub](https://github.com/THE-Abrahan).
 
+## 🛠️ Tecnologías y herramientas
 
-### ⚙️ &nbsp;GitHub Analytics
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=092E20)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## 📊 Estadísticas de GitHub
 
-### 🤝🏻 &nbsp;Connect with Me
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THE-Abrahan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Abraham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-Abrahan&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más utilizados por Abraham" />
+</div>
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+## 🤝 Conecta conmigo
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+<div align="center">
+  <a href="https://github.com/THE-Abrahan">
+    <img src="https://img.shields.io/badge/GitHub-THE--Abrahan-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub" />
+  </a>
+</div>
 
-Last Edited on: 11/12/2020
+---
+
+<div align="center">
+  <i>Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo algo nuevo!</i>
+</div>
